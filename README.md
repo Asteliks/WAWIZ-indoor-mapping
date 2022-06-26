@@ -1,9 +1,9 @@
 # WAWIZ-indoor-mapping
-This repository contains indoor plants and calibration files for indoor mapping in [JOSM](https://josm.openstreetmap.de/). The original files used in this repository can be found on the official University website [here](https://architektura.put.poznan.pl/en/node/3794?q=plany-poszczegolnych-pieter-budynku-wawiz).
+This repository contains indoor plants and calibration files for indoor mapping in [JOSM](https://josm.openstreetmap.de). The original files used in this repository can be found on the official University website [here](https://architektura.put.poznan.pl/en/node/3794?q=plany-poszczegolnych-pieter-budynku-wawiz).
 
 ## Getting started
 In order to start you will need the following program and plugins
-1. [JOSM](https://josm.openstreetmap.de/)
+1. [JOSM](https://josm.openstreetmap.de) - an extensible editor for [OpenStreetMap](https://www.openstreetmap.org) for [Java 8+](https://www.java.com)
 2. [PicLayer](https://josm.openstreetmap.de/wiki/Help/Plugin/PicLayer) - a tool needed to display images as background in JOSM. Use it to load the PNGs among with calibration files
 3. [indoorhelper](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/indoorhelper) - a tool that comes with a Map Paint Style. It makes indoor mapping much easier
 
