@@ -1,2 +1,2 @@
 # WAWIZ-indoor-mapping
-Indoor plans and calibration files for indoor mapping in JOSM
+This repository contains indoor plants and calibration files for indoor mapping in JOSM
